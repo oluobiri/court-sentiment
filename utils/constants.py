@@ -1,5 +1,5 @@
 """
-Constants for the NBA Hate Tracker project.
+Constants for the Court Sentiment project.
 
 This module contains:
 - Data validation constants

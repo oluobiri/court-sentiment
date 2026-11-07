@@ -1,5 +1,5 @@
 """
-Pytest fixtures for NBA Hate Tracker tests.
+Pytest fixtures for Court Sentiment tests.
 
 Fixtures provide reusable test data and utilities. They're injected
 into test functions by name — pytest handles the wiring automatically.

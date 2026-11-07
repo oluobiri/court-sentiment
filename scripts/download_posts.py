@@ -151,7 +151,7 @@ def main() -> None:
     end_ts = date_to_epoch(season_cfg["end_date"])
 
     logger.info("=" * 60)
-    logger.info(f"NBA Hate Tracker - Posts Download ({season_cfg['season']})")
+    logger.info(f"Court Sentiment - Posts Download ({season_cfg['season']})")
     logger.info("=" * 60)
     logger.info(f"Date range: {season_cfg['start_date']} to {season_cfg['end_date']}")
     logger.info(f"Subreddit: r/{subreddit}")

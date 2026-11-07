@@ -1,1 +1,1 @@
-"""CLI scripts for NBA Hate Tracker."""
+"""CLI scripts for Court Sentiment."""
