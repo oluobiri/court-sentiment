@@ -1,4 +1,4 @@
-# NBA Hate Tracker - Development Commands
+# Court Sentiment - Development Commands
 
 .PHONY: test test-verbose lint clean
 

@@ -1,4 +1,4 @@
-# Data Model — NBA Hate Tracker
+# Data Model — Court Sentiment
 
 **Purpose:** The shared conceptual vocabulary for V2 dashboard design. A new dashboard view is a question asked against this model; having the model written down is what lets you tell at a glance whether a question is **cheap** (already in an aggregate), **needs a join** (a dimension lookup, no new pipeline output), or **expensive** (a new aggregate view the pipeline must produce).
 
