@@ -30,7 +30,7 @@ export const NAV: readonly NavItem[] = [
   { label: 'How it works', href: '/how-it-works/' },
 ]
 
-export const GITHUB_URL = 'https://github.com/oluobiri/nba-hate-tracker'
+export const GITHUB_URL = 'https://github.com/oluobiri/court-sentiment'
 export const LINKEDIN_URL = 'https://www.linkedin.com/in/oluobiri/'
 export const COFFEE_URL = 'https://buymeacoffee.com/oluobiri'
 export const AUTHOR = 'Olu Obiri'
